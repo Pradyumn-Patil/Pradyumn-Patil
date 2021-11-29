@@ -13,7 +13,7 @@ I'm a graduate in Computer Science 🎓 from Vishwakarma Institute Of Technology
 - 🚀 &nbsp; I’m currently learning Deep Learning and neural networks .
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Pradyumn-Patil).
 - 📫 &nbsp; How to reach me: pradyumn.narendra.patil@gmail.com
-- 📝 &nbsp; Checkout my [Resume]()
+- 📝 &nbsp; Checkout my [Resume(avilable on website)](https://pradyumn.herokuapp.com)
 
 ### My Absolute Favorites:
 
