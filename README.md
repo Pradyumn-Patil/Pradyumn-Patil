@@ -1,8 +1,8 @@
 ## Hey 👋, I'm [Pradyumn Patil !](https://github.com/Pradyumn-Patil)
 
-[![Linkedin Badge]()
-[![Website Badge]()
-[![Twitter Badge]()
+[![Linkedin Badge](https://www.linkedin.com/in/pradyumn-patil-1980a1222/)
+[![Website Badge](https://pradyumn.herokuapp.com)
+[![Twitter Badge](https://twitter.com/_Pradyumn_Patil)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
