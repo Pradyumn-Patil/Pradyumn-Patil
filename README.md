@@ -1,4 +1,6 @@
-## Hey 👋, I'm [Pradyumn Patil !](https://github.com/Pradyumn-Patil)
+## Hey 👋, I'm [Pradyumn Patil !](https://github.com/Pradyumn-Patil) 
+
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
 [![Linkedin Badge](https://www.linkedin.com/in/pradyumn-patil-1980a1222/)
 [![Website Badge](https://pradyumn.herokuapp.com)
